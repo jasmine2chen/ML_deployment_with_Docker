@@ -1,4 +1,4 @@
-# Machine-Learning-Deployment-using-Docker
+# ML-Deployment-with-Docker
 
 
 ### An Overview of the process executed  :
